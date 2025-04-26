@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 Just starting out as a newbie here while I learn Python and deeper use of AI tools with the goal of optimising business processes.
+🌱 Just starting out as a newbie here while I learn Python and deeper use of AI tools with the goal of optimising business processes.<br>
 🔭 I'm currently working on administration optimisation projects for the small business I work at - automation of the filling in of certain spreadsheets and order processing.
 
 
