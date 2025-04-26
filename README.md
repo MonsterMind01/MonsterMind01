@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🌱 Just starting out as a newbie here while I learn Python and deeper use of AI tools with the goal of optimising business processes.
+🔭 I'm currently working on administration optimisation projects for the small business I work at - automation of the filling in of certain spreadsheets and order processing.
+
+
 <!--
 **MonsterMind01/MonsterMind01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
